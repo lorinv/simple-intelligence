@@ -17,11 +17,12 @@ file_put_contents($visitors_file, $views);
 <html>
 <head>
 <title> Home </title>
+<link rel="shortcut icon" type="image/x-icon" href="./images/Logo.jpg" />
 </head>
 	<body style="background-color:black; font-family:garamond;">
 		<main style="background-color:gray; height:1250px; width: 800px; margin:0 auto;">
 			<logo style="padding-left:5px; font-family:garamond; font-size:20px;"> SI </logo>
-			<img src="city.jpg" style="width:800px; height:300px; border-top-style:solid; border-bottom-style:solid;
+			<img src="./images/city.jpg" style="width:800px; height:300px; border-top-style:solid; border-bottom-style:solid;
 														 border-width:2px;">
 			<div style="padding-left:100px; padding-right:100px;">
                         	<h3> Simple Intelligence </h3>
@@ -46,13 +47,13 @@ file_put_contents($visitors_file, $views);
 
 			<h3 style="padding-top:230px;">The Team<h3>
 			<div style="float:left; width:285px; font-size:12px;">
-				<img src="lorin.jpg" style="width:200px; height:200px; border-style:solid; border-width:2px;">
+				<img src="./images/lorin.jpg" style="width:200px; height:200px; border-style:solid; border-width:2px;">
 				<br>
 				Lorin Vandegrift <br>
-				Software Developer & Team Manager <br>
+				Software Developer & Team Lead <br>
 				lorin.vandegrift@email.wsu.edu <br>
 				<br><br>
-				<img src="dustin.jpg" style="width:200px; height:200px; border-style:solid; border-width:2px;">
+				<img src="./images/dustin.jpg" style="width:200px; height:200px; border-style:solid; border-width:2px;">
                                 <br>
                                 Dustin Crossman <br>
                                 Lead Software Developer <br>
@@ -60,13 +61,13 @@ file_put_contents($visitors_file, $views);
 
 			</div>
 			<div style="float:right; width:285px; font-size:12px;">
-                                        <img src="alan.jpg" style="width:200px; height:200px; border-style:solid; border-width:2px;">
+                                        <img src="./images/alan.jpg" style="width:200px; height:200px; border-style:solid; border-width:2px;">
                                         <br>
                                         Alan Vandegrift <br>
                                         Mechanical Engineer <br>
                                         alvandegrift@hotmail.com <br>
                                 	<br><br>
-					<img src="cameron.jpg" style="width:200px; height:200px; border-style:solid; border-width:2px;">
+					<img src="./images/cameron.jpg" style="width:200px; height:200px; border-style:solid; border-width:2px;">
                                         <br>
                                         Cameron Mehl <br>
                                         Electrical Engineer <br>
