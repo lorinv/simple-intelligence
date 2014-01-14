@@ -1,0 +1,18 @@
+body {
+	background-color:black; 
+	font-family:garamond;
+}
+
+main {
+	background-color:gray;
+	height:1250px; 
+	width: 800px; 
+	margin:0 auto;
+}
+
+logo {
+	padding-left:5px; 
+	font-family:garamond; 
+	font-size:20px;
+
+}

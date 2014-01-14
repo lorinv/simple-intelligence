@@ -27,22 +27,25 @@ file_put_contents($visitors_file, $views);
 			<div style="padding-left:100px; padding-right:100px;">
                         	<h3> Simple Intelligence </h3>
 				<div style="float:left; width:285px; font-size:12px;">
-				Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum
-				has been the industry's standard dummy text ever since the 1500s, when an unknown printer
-				took a galley of type and scrambled it to make a type specimen book. It has survived not only
-				five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
-				It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum
-				passages, and more recently with desktop publishing software like Aldus PageMaker including
-				versions of Lorem Ipsum.
+					Someone once said that Robotics is today, what computers were 30 years ago,
+					 we agree. Computers have revolutionized the world in a way no one ever expected.
+					 They changed the way we work, the way we learn, and the way we go about our lives.
+					 We expect robotics to do the same and would like to be apart of it. <br>
+					 <span style="padding-left:30px"></span>
+					 Simple Intelligence is a growing group of engineers looking to better the world through
+					 robotics. We have several products currently in development, but due to
 			</div>
 			<div style="float:right; width:285px; font-size:12px;">
-                                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum 
-                                has been the industry's standard dummy text ever since the 1500s, when an unknown printer 
-                                took a galley of type and scrambled it to make a type specimen book. It has survived not only 
-                                five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. 
-                                It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum 
-                                passages, and more recently with desktop publishing software like Aldus PageMaker including 
-                                versions of Lorem Ipsum.
+                               		 security,
+                                         we can't share them with the world quite yet. We will be presenting a prototype of
+					  our work at the University of Washington Environmental Innovation Challenge on 
+                                         April 3rd, 2014. From there, we plan on moving to production and continuing to grow.
+					<br><span style="padding-left:30px"></span>
+                                        Simple Intelligence is currently based out of Washington State University in Pullman. 
+                                         We are partnering with the WSU Intelligent Robotics Learning Lab and want to thank Dr. 
+                                         Matt Taylor for making this all possible.
+
+
                         </div>
 
 			<h3 style="padding-top:230px;">The Team<h3>
