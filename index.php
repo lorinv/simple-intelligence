@@ -27,6 +27,7 @@ file_put_contents($visitors_file, $views);
 			<div style="padding-left:100px; padding-right:100px;">
                         	<h3> Simple Intelligence </h3>
 				<div style="float:left; width:285px; font-size:12px;">
+					<span style="padding-left:30px"></span>
 					Someone once said that Robotics is today, what computers were 30 years ago,
 					 we agree. Computers have revolutionized the world in a way no one ever expected.
 					 They changed the way we work, the way we learn, and the way we go about our lives.
