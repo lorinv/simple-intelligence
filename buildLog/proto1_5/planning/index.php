@@ -1,3 +1,4 @@
+
 <?php
 $views = 0;
 $visitors_file = "views.txt";
@@ -22,18 +23,20 @@ file_put_contents($visitors_file, $views);
 	<body style="background-color:black; font-family:garamond;">
 		<main style="background-color:gray; height:1250px; width: 800px; margin:0 auto;">
 			<logo style="padding-left:5px; font-family:garamond; font-size:20px;"> SI </logo>
-			<img src="./images/orchard3.jpg" style="width:800px; height:300px; border-top-style:solid; border-bottom-style:solid;
+			<img src="/images/orchard3.jpg" style="width:800px; height:300px; border-top-style:solid; border-bottom-style:solid;
 												 border-width:2px;">
 			
 			<div style="padding-left:100px; padding-right:100px; float:left; width:285px;">
-				<h3> Autonomous Copter Build Log </h3>
-				<p> Index </p>		
-				<ul>
-					<li><a href="proto_5/index.php"> Prototype 0.5 </a></li>
-					<li><a href="proto1/index.php"> Prototype 1.0 </a></li>
-					<li><a href="proto1_5/index.php"> Prototype 1.5 </a></li>
-					<li><a href="proto2/index.php"> Prototype 2.0 </a></li>
-				</ul>
+			<h3> Planning: Quadcopter </h3>
+			<p>
+			<b> Software Development </b><br><br>
+			
+			<b> Mechanical Development </b><br><br>
+			
+			<b> Electrical Development </b><br><br>
+			</p>
+			
+			
 			</div>
 			<div style="float:right; width:285px">
 			<img src="../images/alan.jpg" style="width:200px; margin-top:50px; height:200px; border-style:solid; border-width:2px;">
