@@ -29,11 +29,16 @@ file_put_contents($visitors_file, $views);
 			<div style="padding-left:100px; padding-right:100px; float:left; width:285px;">
 			<h3> Planning: Quadcopter </h3>
 			<p>
-			<b> Software Development </b><br><br>
-			
-			<b> Mechanical Development </b><br><br>
-			
 			<b> Electrical Development </b><br><br>
+				- Picking out flight board, motors, ESC's, Battery
+				- Learning how to build and fly RC Copter
+				- 
+			<b> Software Development </b><br><br>
+				- 
+			<b> Mechanical Development </b><br><br>
+				- Picking out a frame 
+				- Propellers Placement
+			
 			</p>
 			
 			
