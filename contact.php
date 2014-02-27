@@ -58,10 +58,7 @@
 					</tr>
 				</table>
 			</div>	
-			<center>
-			Pullman Washington &nbsp;&nbsp;&#9827;&nbsp;&nbsp; Simple Intelligence 2014
-			</center>
-			</div>
+			<?php include("footer.php"); ?>
 	</body>
 </html>
 

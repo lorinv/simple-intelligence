@@ -71,11 +71,7 @@ td {
 					</tr>
 				</table>
 			</div>	
-			<div id="footer" style="margin-top:15px; color:#606060; font-size:.75em;">
-			<center>
-			Pullman Washington &nbsp;&nbsp;&#9827;&nbsp;&nbsp; Simple Intelligence 2014
-			</center>
-			</div>
+			<?php include("footer.php"); ?>
 	</body>
 </html>
 
