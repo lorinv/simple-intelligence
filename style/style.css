@@ -1,0 +1,53 @@
+body
+{
+background-color:black; 
+font-family: 'Source Sans Pro', sans-serif; 
+margin: 0px auto; 
+width:800px;
+}
+ul
+{
+list-style-type:none;
+margin:0;
+padding:0;
+overflow:hidden;
+}
+li
+{
+float:left;
+padding-right:0px;
+}
+a:link,a:visited
+{
+display:block;
+width:192px;
+font-size:.9em;
+color:#FFFFFF;
+background-color:#202020;
+text-align:center;
+padding:4px;
+text-decoration:none;
+text-transform:uppercase;
+}
+a:hover,a:active
+{
+background-color:#383838 ;
+}
+
+.content
+{
+	font-size:.80em;
+	margin-top:2px; 
+	background-color:#E0E0E0;
+	width:740px;
+	font-size:.80em;
+	padding-left:30px;
+	padding-right:30px;
+	padding-top:20px;
+	padding-bottom:40px;
+}
+
+p
+{
+	font-size:.80em;
+}
