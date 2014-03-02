@@ -18,7 +18,7 @@ li
 float:left;
 padding-right:0px;
 }
-a:link,a:visited
+.nav
 {
 display:block;
 width:192px;
@@ -30,7 +30,7 @@ padding:4px;
 text-decoration:none;
 text-transform:uppercase;
 }
-a:hover,a:active
+.nav:hover,.nav:active
 {
 background-color:#383838 ;
 }
@@ -51,4 +51,45 @@ background-color:#383838 ;
 p
 {
 	font-size:.80em;
+}
+
+.link
+{
+	text-decoration:none;
+	color: black;
+}
+
+.link:hover,.link:active
+{
+	color:#FFFFFF;
+}
+
+.pic
+{
+	border-style:solid;
+	width:1px;
+}
+
+.category
+{
+display:block;
+width:150px;
+font-size:.9em;
+color:#FFFFFF;
+background-color:#202020;
+text-align:center;
+padding:0px;
+text-decoration:none;
+text-transform:uppercase;
+}
+.category:hover,.category:active
+{
+background-color:#383838 ;
+}
+
+button{
+	border: 0px;
+	background-color: #202020;
+	color:#FFFFFF;
+	width: 100%;
 }

@@ -9,10 +9,10 @@
 			<img src="images/frontcover.jpg" style="width:800px; height:300px; border-top-style:solid; border-bottom-style:solid;
 															 border-width:2px;">
 				<ul name="navBar_list" style="">
-						<li><a href="index.php">Home </a></li>
-						<li><a href="team.php">The Team </a></li>
-						<li><a href="contact.php">Contact Us </a></li>
-						<li><a href="login.php">Login</a></li>
+						<li><a class="nav" href="index.php">Home </a></li>
+						<li><a class="nav" href="team.php">The Team </a></li>
+						<li><a class="nav" href="contact.php">Contact Us </a></li>
+						<li><a class="nav" href="login.php">Login</a></li>
 					</ul>
 			</div>';
 ?>

@@ -25,7 +25,7 @@
 				<table>
 					<tr>
 						<td>
-							<form action="" method="">
+							<form action="verification.php" method="post">
 								<table>
 									<tr>
 										<td>
